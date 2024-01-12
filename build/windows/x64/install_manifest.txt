@@ -1,0 +1,12 @@
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/icudtl.dat
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/flutter_windows.dll
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/app_links_plugin.dll
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/url_launcher_windows_plugin.dll
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+V:/M08-Flutter/supabase_example/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

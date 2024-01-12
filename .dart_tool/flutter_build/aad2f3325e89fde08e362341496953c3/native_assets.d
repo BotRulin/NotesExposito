@@ -1,0 +1,1 @@
+ V:\\M08-Flutter\\supabase_example\\.dart_tool\\flutter_build\\aad2f3325e89fde08e362341496953c3\\native_assets.yaml: 
